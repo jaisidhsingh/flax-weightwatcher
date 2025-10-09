@@ -1,4 +1,4 @@
-# Flax-WeightWatcher
+# Flax-WeightWatcher <a href="https://pypi.org/project/flax-weightwatcher/0.1.1/">[Pypi]</a>
 
 Unfortunately, <a href="https://github.com/CalculatedContent/WeightWatcher">CalculatedContent's WeightWatcher</a> does not support FLAX models, and could use accelerated linear algebra (XLA) frameworks for greater speed.
 
